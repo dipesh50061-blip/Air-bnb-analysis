@@ -1,0 +1,17 @@
+
+# Trained model — too large for normal Git
+models/*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+airbnb_env/
+
+# Testing and secrets
+.pytest_cache/
+.env
